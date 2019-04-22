@@ -1,0 +1,229 @@
+2019/04/22 14:45:17 [INFO]: [main]  server start...
+2019/04/22 14:45:17 [INFO]: Log system start!
+2019/04/22 14:47:06 [INFO]: [Instance.onLogin]  Client login from manager
+2019/04/22 14:47:06 [INFO]: [Clinet.parseMessage]  Little chicken send: Header_SetNameReq
+2019/04/22 14:47:06 [INFO]: [Clinet.parseMessage]  Ann Header_SetNameReq handle result 0
+2019/04/22 14:47:06 [INFO]: [Clinet.parseMessage]  Ann send: Header_MessageReq
+2019/04/22 14:47:06 [INFO]: [Clinet.parseMessage]  Ann Header_MessageReq handle result 0
+2019/04/22 14:47:06 [INFO]: [Clinet.parseMessage]  Ann send: Header_HeartBeat
+2019/04/22 14:47:06 [INFO]: [Clinet.parseMessage]  Ann Header_HeartBeat handle result 0
+2019/04/22 14:47:08 [INFO]: [Clinet.parseMessage]  Ann send: Header_MessageReq
+2019/04/22 14:47:08 [INFO]: [Clinet.parseMessage]  Ann Header_MessageReq handle result 0
+2019/04/22 14:47:09 [INFO]: [Clinet.parseMessage]  Ann send: Header_MessageReq
+2019/04/22 14:47:09 [INFO]: [Clinet.parseMessage]  Ann Header_MessageReq handle result 0
+2019/04/22 14:47:11 [INFO]: [Clinet.parseMessage]  Ann send: Header_HeartBeat
+2019/04/22 14:47:11 [INFO]: [Clinet.parseMessage]  Ann Header_HeartBeat handle result 0
+2019/04/22 14:47:16 [INFO]: [Clinet.parseMessage]  Ann send: Header_HeartBeat
+2019/04/22 14:47:16 [INFO]: [Clinet.parseMessage]  Ann Header_HeartBeat handle result 0
+2019/04/22 14:47:21 [INFO]: [Clinet.parseMessage]  Ann send: Header_HeartBeat
+2019/04/22 14:47:21 [INFO]: [Clinet.parseMessage]  Ann Header_HeartBeat handle result 0
+2019/04/22 14:47:26 [INFO]: [Clinet.parseMessage]  Ann send: Header_HeartBeat
+2019/04/22 14:47:26 [INFO]: [Clinet.parseMessage]  Ann Header_HeartBeat handle result 0
+2019/04/22 14:47:31 [INFO]: [Clinet.parseMessage]  Ann send: Header_HeartBeat
+2019/04/22 14:47:31 [INFO]: [Clinet.parseMessage]  Ann Header_HeartBeat handle result 0
+2019/04/22 14:47:36 [INFO]: [Clinet.parseMessage]  Ann send: Header_HeartBeat
+2019/04/22 14:47:36 [INFO]: [Clinet.parseMessage]  Ann Header_HeartBeat handle result 0
+2019/04/22 14:47:41 [INFO]: [Clinet.parseMessage]  Ann send: Header_HeartBeat
+2019/04/22 14:47:41 [INFO]: [Clinet.parseMessage]  Ann Header_HeartBeat handle result 0
+2019/04/22 14:47:41 [INFO]: [Instance.onLogin]  Client login from manager
+2019/04/22 14:47:41 [INFO]: [Clinet.parseMessage]  Little chicken send: Header_SetNameReq
+2019/04/22 14:47:41 [INFO]: [Clinet.parseMessage]  Rance Header_SetNameReq handle result 0
+2019/04/22 14:47:41 [INFO]: [Clinet.parseMessage]  Rance send: Header_MessageReq
+2019/04/22 14:47:41 [INFO]: [Clinet.parseMessage]  Rance Header_MessageReq handle result 0
+2019/04/22 14:47:41 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:47:41 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:47:46 [INFO]: [Clinet.parseMessage]  Ann send: Header_HeartBeat
+2019/04/22 14:47:46 [INFO]: [Clinet.parseMessage]  Ann Header_HeartBeat handle result 0
+2019/04/22 14:47:46 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:47:46 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:47:47 [INFO]: [Clinet.parseMessage]  Rance send: Header_MessageReq
+2019/04/22 14:47:47 [INFO]: [Clinet.parseMessage]  Rance Header_MessageReq handle result 0
+2019/04/22 14:47:50 [INFO]: [Clinet.parseMessage]  Ann send: Header_MessageReq
+2019/04/22 14:47:50 [INFO]: [Clinet.parseMessage]  Ann Header_MessageReq handle result 0
+2019/04/22 14:47:51 [INFO]: [Clinet.parseMessage]  Ann send: Header_HeartBeat
+2019/04/22 14:47:51 [INFO]: [Clinet.parseMessage]  Ann Header_HeartBeat handle result 0
+2019/04/22 14:47:51 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:47:51 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:47:55 [INFO]: [Clinet.parseMessage]  Ann send: Header_MessageReq
+2019/04/22 14:47:55 [INFO]: [Clinet.parseMessage]  Ann Header_MessageReq handle result 0
+2019/04/22 14:47:55 [INFO]: [Clinet.parseMessage]  Ann send: Header_MessageReq
+2019/04/22 14:47:55 [INFO]: [Clinet.parseMessage]  Ann Header_MessageReq handle result 0
+2019/04/22 14:47:56 [INFO]: [Clinet.parseMessage]  Ann send: Header_HeartBeat
+2019/04/22 14:47:56 [INFO]: [Clinet.parseMessage]  Ann Header_HeartBeat handle result 0
+2019/04/22 14:47:56 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:47:56 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:47:58 [INFO]: [Clinet.parseMessage]  Rance send: Header_MessageReq
+2019/04/22 14:47:58 [INFO]: [Clinet.parseMessage]  Rance Header_MessageReq handle result 0
+2019/04/22 14:47:59 [INFO]: [Clinet.parseMessage]  Rance send: Header_MessageReq
+2019/04/22 14:47:59 [INFO]: [Clinet.parseMessage]  Rance Header_MessageReq handle result 0
+2019/04/22 14:48:01 [INFO]: [Clinet.parseMessage]  Ann send: Header_HeartBeat
+2019/04/22 14:48:01 [INFO]: [Clinet.parseMessage]  Ann Header_HeartBeat handle result 0
+2019/04/22 14:48:02 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:48:02 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:48:06 [INFO]: [Clinet.parseMessage]  Ann send: Header_HeartBeat
+2019/04/22 14:48:06 [INFO]: [Clinet.parseMessage]  Ann Header_HeartBeat handle result 0
+2019/04/22 14:48:07 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:48:07 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:48:11 [INFO]: [Clinet.parseMessage]  Ann send: Header_HeartBeat
+2019/04/22 14:48:11 [INFO]: [Clinet.parseMessage]  Ann Header_HeartBeat handle result 0
+2019/04/22 14:48:12 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:48:12 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:48:16 [INFO]: [Clinet.parseMessage]  Ann send: Header_HeartBeat
+2019/04/22 14:48:16 [INFO]: [Clinet.parseMessage]  Ann Header_HeartBeat handle result 0
+2019/04/22 14:48:17 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:48:17 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:48:21 [INFO]: [Clinet.parseMessage]  Ann send: Header_HeartBeat
+2019/04/22 14:48:21 [INFO]: [Clinet.parseMessage]  Ann Header_HeartBeat handle result 0
+2019/04/22 14:48:22 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:48:22 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:48:26 [INFO]: [Clinet.parseMessage]  Ann send: Header_HeartBeat
+2019/04/22 14:48:26 [INFO]: [Clinet.parseMessage]  Ann Header_HeartBeat handle result 0
+2019/04/22 14:48:27 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:48:27 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:48:31 [INFO]: [Clinet.parseMessage]  Ann send: Header_HeartBeat
+2019/04/22 14:48:31 [INFO]: [Clinet.parseMessage]  Ann Header_HeartBeat handle result 0
+2019/04/22 14:48:32 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:48:32 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:48:36 [INFO]: [Clinet.parseMessage]  Ann send: Header_HeartBeat
+2019/04/22 14:48:36 [INFO]: [Clinet.parseMessage]  Ann Header_HeartBeat handle result 0
+2019/04/22 14:48:37 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:48:37 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:48:41 [INFO]: [Clinet.parseMessage]  Ann send: Header_HeartBeat
+2019/04/22 14:48:41 [INFO]: [Clinet.parseMessage]  Ann Header_HeartBeat handle result 0
+2019/04/22 14:48:42 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:48:42 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:48:46 [INFO]: [Clinet.parseMessage]  Ann send: Header_HeartBeat
+2019/04/22 14:48:46 [INFO]: [Clinet.parseMessage]  Ann Header_HeartBeat handle result 0
+2019/04/22 14:48:47 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:48:47 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:48:51 [INFO]: [Clinet.parseMessage]  Ann send: Header_HeartBeat
+2019/04/22 14:48:51 [INFO]: [Clinet.parseMessage]  Ann Header_HeartBeat handle result 0
+2019/04/22 14:48:52 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:48:52 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:48:56 [INFO]: [Clinet.parseMessage]  Ann send: Header_HeartBeat
+2019/04/22 14:48:56 [INFO]: [Clinet.parseMessage]  Ann Header_HeartBeat handle result 0
+2019/04/22 14:48:57 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:48:57 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:49:01 [INFO]: [Clinet.parseMessage]  Ann send: Header_HeartBeat
+2019/04/22 14:49:01 [INFO]: [Clinet.parseMessage]  Ann Header_HeartBeat handle result 0
+2019/04/22 14:49:02 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:49:02 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:49:06 [INFO]: [Clinet.parseMessage]  Ann send: Header_HeartBeat
+2019/04/22 14:49:06 [INFO]: [Clinet.parseMessage]  Ann Header_HeartBeat handle result 0
+2019/04/22 14:49:07 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:49:07 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:49:11 [INFO]: [Clinet.parseMessage]  Ann send: Header_HeartBeat
+2019/04/22 14:49:11 [INFO]: [Clinet.parseMessage]  Ann Header_HeartBeat handle result 0
+2019/04/22 14:49:12 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:49:12 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:49:16 [INFO]: [Clinet.parseMessage]  Ann send: Header_HeartBeat
+2019/04/22 14:49:16 [INFO]: [Clinet.parseMessage]  Ann Header_HeartBeat handle result 0
+2019/04/22 14:49:17 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:49:17 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:49:21 [INFO]: [Clinet.parseMessage]  Ann send: Header_HeartBeat
+2019/04/22 14:49:21 [INFO]: [Clinet.parseMessage]  Ann Header_HeartBeat handle result 0
+2019/04/22 14:49:22 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:49:22 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:49:26 [INFO]: [Clinet.parseMessage]  Ann send: Header_HeartBeat
+2019/04/22 14:49:26 [INFO]: [Clinet.parseMessage]  Ann Header_HeartBeat handle result 0
+2019/04/22 14:49:27 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:49:27 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:49:31 [INFO]: [Clinet.parseMessage]  Ann send: Header_HeartBeat
+2019/04/22 14:49:31 [INFO]: [Clinet.parseMessage]  Ann Header_HeartBeat handle result 0
+2019/04/22 14:49:32 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:49:32 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:49:36 [INFO]: [Clinet.parseMessage]  Ann send: Header_HeartBeat
+2019/04/22 14:49:36 [INFO]: [Clinet.parseMessage]  Ann Header_HeartBeat handle result 0
+2019/04/22 14:49:37 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:49:37 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:49:41 [INFO]: [Clinet.parseMessage]  Ann send: Header_HeartBeat
+2019/04/22 14:49:41 [INFO]: [Clinet.parseMessage]  Ann Header_HeartBeat handle result 0
+2019/04/22 14:49:42 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:49:42 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:49:46 [INFO]: [Clinet.parseMessage]  Ann send: Header_HeartBeat
+2019/04/22 14:49:46 [INFO]: [Clinet.parseMessage]  Ann Header_HeartBeat handle result 0
+2019/04/22 14:49:47 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:49:47 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:49:47 [INFO]: [Clinet.inputWorker]  A client disconnect: websocket: close 1006 (abnormal closure): unexpected EOF
+2019/04/22 14:49:47 [INFO]: [Clinet.worker]  Client Ann Disconnect:
+2019/04/22 14:49:47 [INFO]: [Instance.onLogout]  Client logout from manager
+2019/04/22 14:49:52 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:49:52 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:49:57 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:49:57 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:50:02 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:50:02 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:50:07 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:50:07 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:50:12 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:50:12 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:50:17 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:50:17 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:50:22 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:50:22 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:50:27 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:50:27 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:50:32 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:50:32 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:50:37 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:50:37 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:50:42 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:50:42 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:50:47 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:50:47 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:50:52 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:50:52 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:50:57 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:50:57 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:51:02 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:51:02 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:51:07 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:51:07 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:51:12 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:51:12 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:51:17 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:51:17 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:51:22 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:51:22 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:51:27 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:51:27 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:51:32 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:51:32 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:51:37 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:51:37 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:51:42 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:51:42 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:51:47 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:51:47 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:51:52 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:51:52 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:51:57 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:51:57 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:52:02 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:52:02 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:52:07 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:52:07 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:52:12 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:52:12 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:52:17 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:52:17 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:52:22 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:52:22 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:52:27 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:52:27 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:52:32 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:52:32 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:52:37 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:52:37 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:52:42 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:52:42 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:52:47 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:52:47 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:52:52 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:52:52 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:52:57 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:52:57 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:53:02 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:53:02 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
+2019/04/22 14:53:07 [INFO]: [Clinet.parseMessage]  Rance send: Header_HeartBeat
+2019/04/22 14:53:07 [INFO]: [Clinet.parseMessage]  Rance Header_HeartBeat handle result 0
